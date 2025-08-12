@@ -42,9 +42,7 @@ Please cite the chapter as follows when using it for academic or professional pu
 ## Contact
 
 For questions, contributions, or collaborations, please contact:
-
-[Your Email Address]
-
+malvinikhil177@gmail.com
 ***
 
 ## License
